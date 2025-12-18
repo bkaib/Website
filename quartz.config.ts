@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+// import { ExternalLinks } from "./quartz/plugins/transformers/externalLinks"
 
 /**
  * Quartz 4 Configuration
@@ -55,6 +56,11 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      Plugin.ExternalLinks({
+        openInNewTab: true,
+        addIcon: false,
+        internalHosts: ["quartz.jzhao.xyz"], // your domain
+      }),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
