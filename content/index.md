@@ -41,8 +41,6 @@ If you are interested in the following topics or questions, you might get some v
 --- 
 # What I'm Currently Working On
 
-#### Test Heading 
-
 <h4 id="phd-in-climate-science">🖥️ <b>PhD in Climate Science</b></h2>
 
 Besides my graduations in higher mathematics, economics, and sports I studied Ocean & Climate Physics at the University of Hamburg. I finished my Masters Degree in 2022 and started my PhD-Position in 2023 at the [Helmholtz-Center Hereon](https://www.hereon.de/institutes/coastal_systems_analysis_modeling/climate_extremes_impacts/team/112706/index.php.en)
