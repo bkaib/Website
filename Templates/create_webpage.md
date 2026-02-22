@@ -1,15 +1,11 @@
 ---
-title: How Extreme Event Attributes of Storms Change Under Climate Change
-created date: "202602222245"
+title: "{{title}}"
+created date: "{{date:YYYYMMDD}}{{time:HHmm}}"
 draft: true
 tags:
-  - storms
-  - natural-hazard
-up: "[[Weather and Climate Extremes]]"
-social_posted: false
+up:
+social_posted:
 ---
-- [ ] Write article: How Extreme Event Attributes of Storms Change Under Climate Change #copilot
-
 
 > **Summary**
 > 

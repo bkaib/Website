@@ -1,0 +1,14 @@
+- I am building a website using Quartz and Obsidian.
+- My website is stored in content/*. All subfolders belong to the website.  
+- index.md is the homepage
+- All new content should be saved as .md files in the /content directory as a draft.
+- Always include YAML frontmatter with title, date, tags and draft. 
+- Render all math using LaTeX format: $inline$ for text and $$display$$ for blocks.Never use HTML tags if Markdown can do the job.
+- Find examples of how to render the website in the file Rules for Rendering the Website.md and follow those instructions.
+- Todos that have to be done by you, e.g. copilot, are marked with the tag #copilot.
+- Use Emojis in headings and summaries to make the content more engaging.
+- Always include a summary at the beginning of each article with the most important points.
+- Use the template in Templates/create_webpage.md for new articles.
+- Apply the Title Case Formatting to all headings and subheadings.
+- If we webpage includes a Call to Action, make the heading of hte call to action appealing based on the context of the article. For example, if the article is about tutoring, the call to action could be "Ready to Improve Your Understanding? Contact Me for Tutoring!".
+- All First Headings should be "# Emoji + Title"

@@ -1,6 +1,7 @@
 ---
 title: kaibellinghausen.com
 draft: false
+social_posted: true
 ---
 <img src="kaibelli.jpg" alt="image-of-kai" style="float:right; width:250px; margin:10px;" />
 
@@ -11,13 +12,11 @@ draft: false
 🌊 I am a surfer.  
 📷 I am a photographer.   
 
-Find out more about my [Education & Skills](Education%20&%20Skills.md).
+Find out more about my [Education & Skills](Education%20&%20Skills.md)
 
----
+# You Are at the Right Place If...
 
-# Why You Are Right Here
-
-If you are interested in the following topics or questions, you might get some value off my sharings
+you are interested in the following topics or questions, you might get some value off my sharings
 
 🌍 **Weather & Climate**  
 
@@ -49,13 +48,14 @@ Besides my graduations in higher mathematics, economics, and sports I studied Oc
 In my PhD I focus on [[Weather and Climate Extremes]], their possible [Impacts](Impacts%20of%20Weather%20and%20Climate%20Extremes.md) and their underlying [Physical Drivers](Physical%20Drivers%20) with and emphasize on [[Wind Extremes]].
 
 #### 🧮 **Tutoring in Math, Statistics  & Econ**   
-I do have more than 10 years of experience in tutoring mathematics. Right now I am working on the [MathNet](https://bkaib.github.io/MathNet/), where I want to help students to understand math in a simple manner for free. While studying, me and a friend started a side hustle, where we helped hundreds of students to understand math, statistics and economics at the University of Osnabrück. We still have some [courses online](https://vimeo.com/user116338393)
+I do have more than 10 years of experience in tutoring mathematics. Right now I am working on the [MathNet](https://bkaib.github.io/MathNet/), where I want to help students to understand math in a simple manner for free. While studying, me and a friend started a side hustle, where we helped hundreds of students to understand math, statistics and economics at the University of Osnabrück. We still have some [courses online](https://vimeo.com/user116338393). 
+Find out more on my [tutoring offers here](_Tutoring.md).
 
 #### 📷 **Photography & Videography**    
 On my surf trips I capture the most exciting moments along the way, mostly of landscapes or surfers. Check out my [art gallery](??) and let me know what pictures you enjoy! If you want me to capture moments for you, feel free to contact me for further details.
 
 ---
-# Get in Touch
+# 📣 Get in Touch
 
 📨 **Email** – Please get in touch [via email](mailto:bellinghausen.kai@gmail.com) for any business inquiries, questions or comments. I check my emails once a week but reply to all of them.
 

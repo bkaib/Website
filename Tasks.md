@@ -15,10 +15,7 @@ group by priority
 
 # Unordered List of Tasks
 
-- [ ] Make articles for all links going out of [[index]] 🔺 
-- [ ] Create a small artgallery and post some pics. Reference it in [index](docs/plugins/index.md). 
-- [ ] Transfer old notes to here. 🔺 
-
-# Post on Social Media
-
-- [ ] Post [Weather and Climate Extremes](Weather%20and%20Climate%20Extremes.md) on social media 
+- [x] Make articles for all links going out of [[index]] 🔺 ✅ 2026-02-22
+- [ ] Create a Photography Landing Page 🔺 
+	- [ ] Create a small artgallery and post some pics. Reference it in [index](docs/plugins/index.md). 
+- [ ] Transfer notes form old website here. ⏫  
