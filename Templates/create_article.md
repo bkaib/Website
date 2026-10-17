@@ -29,4 +29,4 @@ Interested in deeper insights or ready‑made summaries? Check out my products a
 support my work:
 
 * [My summaries and guides](#) – available soon.
-* Contact me at [email](mailto:bellinghausen.kai@gmail.com) for custom requests.
+* Get in touch: [email](mailto:bellinghausen.kai@gmail.com) 

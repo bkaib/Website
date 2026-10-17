@@ -8,6 +8,15 @@ up: "[[_Climate Science]]"
 social_posted: false
 ---
 
+> **Summary**
+> 
+> - 🌊 **Extreme events impact our global society**
+> - 💸 **How can we describe extreme events?** 
+> - **Does climate change alter extreme events?**
+> 
+> Brief introduction to weather and climate extremes
+ 
+
 # Why are Weather and Climate Extremes Important?
 
 Weather and Climate Extremes are one of the biggest challenge for society. They lead to loss of human life and induce damages to the global economy and infrastructure. 
@@ -15,11 +24,10 @@ Hence understanding what they are, how they develop and change as well as how we
 
 Examples of their impacts include the following
 
-1. **Loss of Human Life:**  Approximately 17.200 people lost their life globally due to extreme events (according to data of Munich Re). The 10-year average of fatalities is at 17.800 people.
-2. **Biological Limits:** Nature can adapt to gradual change but extreme events (like storms) can damage entire ecosystems (e.g. forests), causing permanent biodiversity loss.
-3. **Damage to Infrastructure** Most infrastructure (dams, power grids, bridges) is built to withstand "normal" limits. Extremes push systems past their **breaking points**, leading to cascading failures.
+1. **Loss of Human Life:** Approximately 17.200 people lost their life globally due to extreme events (according to data of Munich Re). The 10-year average of fatalities is at 17.800 people.
+2. **Biological Limits:** Nature can adapt to gradual change but extreme events (like storms or wild fires) can damage entire ecosystems (e.g. forests,), causing permanent biodiversity loss.
+3. **Damage to Infrastructure:** Most infrastructure (dams, power grids, bridges) is built to withstand "normal" limits. Extremes push systems past their **breaking points**, leading to cascading failures.
 4. **Economic Shocks:** A single extreme event, like a catastrophic hurricane, can significantly decrease the economic growth of a nation or cause global supply chain collapses.
-
 
 There are several types of extreme events that can be related to different climate variables such as temperature, precipitation or wind. Some examples of extreme events are listed here 
 
@@ -29,77 +37,67 @@ There are several types of extreme events that can be related to different clima
  4. Droughts
  5. Storms
 
-Since I currently investigate Storms in my PhD we will use Storms as an example in this article.
-# What is the Difference Between Weather and Climate Extremes?
-
-The difference between weather and climate lays in the temporal dimension. 
-While weather refers to short-term (days, weeks) states of our atmosphere and oceans, climate is related to long-term patterns (years, decades, centuries).
-
-Similarly climate extremes refer to the long-term changes of weather extremes by looking for instance at the shifts in decadal frequency and intensity of weather extremes.
-Weather extremes on the other hand refer to the immediate extreme events or so called natural hazards.
-
-<figure>
-  <img src="weather-vs-climate.jpg" alt="weather-vs-climate" style="width:600px; height:600px;" title="source: Shutterstock">
-  <figcaption>
-	  Fig. 1: Difference between Weather and Climate.
-	  <a href="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS48dW-qpnh3M1SYLBfqGDErE3RjYmUALELtxZQeHB5QR4bo6yTrEJqiK15anRi1_-DU6cIO0wmVkqrTtFJgE-HDHmfYOjuQbBHcGrPJJB885h6OZU">Source: Shutterstock</a>
-  </figcaption>
-</figure>
+I currently investigate wind extremes in my PhD. So let's use storms as an example to explain the general characteristics of extreme events.
 
 # How Can We Describe Extreme Events?
 
-According to the [IPCC](https://www.ipcc.ch) extreme events can be characterized by the following attributes
+To analyse extreme events we need to measure a quantity or variable that describes the extreme. For instance, for storms we measure the wind speed (usually in meter per second). Let's call this variable an extreme event proxy.
+According to the [IPCC](https://www.ipcc.ch) extreme events can then be characterized by the following attributes of this extreme event proxy (for example wind speed):
 
-1. **Intensity and Magnitude:** Describes how the proxy-variable for the extreme event changes over time. Often the intensity measure of an event is used to define an event as extreme - for instance by exceeding a certain number of the intensity measure. This is also called a hazard threshold.
+1. **Intensity and Magnitude**: The intensity of an extreme event corresponds to its peak value and the magnitude to the summarized energy or effect of the event.
 2. **Frequency:** Describes **how often** the extreme event occured in a given time-frame.
 3. **Duration**: Measures **how long** an extreme event persists.
 4. **Timing**: Describes **when** an event happens.
 5. **Spatial Extent:** Describes **where** (geographically) the event happens.
 
-These attributes are visualized in the figure below.
+These attributes are visualized in the figure below and then described briefly in each subsection.
 
 <figure>
-  <img src="ipccwg1ch12-110-x67-y347.png" alt="characteristics-of-extreme-events" style="width:800px; height:600px;">
+  <img src="../ASSETS/IMAGES/ipccwg1ch12-110-x67-y347.png" alt="characteristics-of-extreme-events" style="width:800px; height:600px;">
   <figcaption>
-	  Fig. 2: Attributes of extreme events and how they can change, for instance due to climate change.
+	  Fig. 1: Attributes of extreme events and how they can change, for instance due to climate change.
 	  <a href="https://www.cambridge.org/core/product/identifier/9781009157896/type/book">Source: IPCC</a>
   </figcaption>
 </figure>
 
-## Extreme Event Attributes of a Storm
+## Intensity & Magnitude
 
-Let's look at each of those from the perspective of storms. 
+In Fig. 1 exceedances of the hazard threshold (H) indicates the onset of an extreme event. The extreme events intensity is indicated by the maximum value of the variable, while the magnitude corresponds to the shaded region. More technically, the magnitude of the event corresponds to the integral over time. 
+When looking for example at storms, one could define the hazard threshold to be at 20 m/s and define every wind speed above it as a storm. If the maximum wind speeds measured during the storm are at 35 m/s, this would be the intensity. For storms the magnitude could correspond to the total energy of the storm. The energy of the storm would correspond not only to the strength of the wind but also on the overall spatial size of the storm. In this case, you could think of the magnitude as the integral over the spatial extent of the storm.
+One example for a hazard threshold regarding storms is the [Saffir-Simpson-Scale](https://www.nhc.noaa.gov/aboutsshws.php), which classifies storms into 5 categories based on their wind speed. But using wind speed as a variable to classify storms is just one example. Another practical choice to track the storms intensity or magnitude is to look at the mean sea level pressure.
+## Frequency
 
-**Intensity & Magnitude**: The intensity of a storm can be measured by the current wind speed at a specific location. It describes how strong the storm is right now. The magnitude of a storm describes how large the overall change in the wind speed variable was during the whole event. Wind speed is just one example to measure the storms intensity & magnitude. Another possible variable would be to use the mean sea level pressure. Both variables, wind speed or mean sea level pressure, can be used to define storm events. One such example is the [Saffir-Simpson-Scale](https://www.nhc.noaa.gov/aboutsshws.php), which classifies storms into 5 categories based on their wind speed.
+If we count how often storms are hitting the European coastline in an extended winter season - for example between the months October to March -  we call it a frequency. Suppose there are 20 storms hitting the entire coastline, the observed frequency then is 20 storms / season. Another way to measure the frequency is in terms of statistical [[Return Periods]]. They measure how often a storm event is re-occuring in a fixed period of time. For instance a storm with a return period of 100 years occurs once (statistically) in a time frame of 100 years.
 
-**Frequency:** If we count how often storms are hitting the European coastline in an extended winter season (e.g. between the months Oct-Mar) we call it a frequency. Suppose there are 20 storms hitting the entire coastline, the observed frequency then is 20 storms / season. Another way to measure the frequency is in terms of statistical [[Return Periods]]. They measure how often a storm event is re-occuring. For instance a storm with a return period of 100 years occurs once (statistically) in a time frame of 100 years. 
+## Duration
 
-**Duration:** Storms can travel at different speeds. While fast traveling storms do not stay in location for a long time (short duration), slow storms can sit over a location for multiple days (long duration). It is important to see that it is not only the intensity of the storm that can lead to damages but also its duration. A storm of low intensity but long duration can be more damaging than a storm of high intesity and small duration.
+It is not only the intensity or magnitude of an extreme event that can lead to persistent damages to society but also its duration. Imagine a very intense storm that only persists for a day close to a coastline city. While this is per se a tragic event and can lead to substantial damages it could be even more dangerous for that city if a less intense storm sits around the coastal area for several days. While the short-duration but high intensity storm could lead to direct damages to, for example, housing, the persistent storm can lead to indirect damages via severe flooding of the city through storm surges or wave run-up. 
 
-**Timing (Seasonal):** Speaking for storms in the Northern Hemisphere, they often occur in the extended winter season (between October - March). Knowing this timing (in this case the seasonality of storms) is crucial when planning for adaptation or managing the emergency risks.
+## Seasonal Timing
 
-**Timing (Speed of Onset):** This refers to how much more quickly an extreme event reaches its peak intensity once it has formed. 
+The timing of an extreme event is a very important feature for decision makers. If we do know the exact timing (and of course location) of an event early on, we can take precautional measurements, like evacuations. While we do know for instance that storms in the Northern Hemisphere occure mainly during the extended winter season (Octoebr to March) due to stronger temperature contrasts in the atmosphere, we do not know the exact day or hour of the storm development. Hence, research on the timing of extreme events is of vital importance to increase the planning of emergency management and other precautionary measures.
 
-**Spatial Extent:** Storms can have different spatial size ranging from localized tornadoes having a diameter of 3 km to extratropical cyclones which are ~480km wide. Knowing this spatial extent and being able to predict the exact location of where the storm hits is a very important information for emergency management.
+## Timing (Speed of Onset)
 
-# How Can a Change in Climate Influence Extreme Events?
+Once an extreme event has developed it can reach its peak values either slow or fast. This is refered to as the speed of onset. A perfect example for a storm with very fast speed of onset is a thunderstorm. Usually, these storms develop within 30 to 60 minutes. These arise due to strong solar heating, which warms the air on the ground, causing it to rapidly rise into the upper atmosphere where it condenses to a cumulus cloud, eventually leading to a thunderstorm. In contrast, some tropical cyclones take days to organize, starting as a weak tropical low pressure system, which gradually strenghtens. 
 
-Each of the extreme event attributes can shift due to several factors and one of the is (human induced) climate change. 
-Let us understand how each of the attributes can change by looking at Fig. 2 again. This image compares a blue curve (the current climate) to a red curve (the expected change of the attribute under climate change). How could this look like for storms?
+## Spatial Extent
 
-**Intensity & Magnitude:** Suppose in the current climate storms are defined by a hazard threshold (the grey dashed line in Fig. 2) of wind speed exceeding 120 km/h. Every day where we measure wind speeds above this threshold is considered a stormy day. The blue shaded area then shows the magnitude of the storm event in the current climate and the blue line shows the corresponding intensity of the event at each point in time (e.g. day or hour). Under climate change the intensity can increase, leading to a shift of the blue line up to the red line. In other words; if it was "normal" in the current climate that the intensity of a storm was around 150 km/h, this "normal" intensity might shift upwards to 180 km/h. In total this increase in intensity might also lead to a larger magnitude (red shaded area) of the storm.
+To get a complete picture of an extreme event its spatial extent and exact location is a vital component. For example, storms that develop and stay on the open ocean are potentially less damaging than the ones making landfall (given that ships and cargo is not sitting within the storm tracks, of course). Despite the fact that the locality is an importance metric for society and emergency planning it is also interesting to study the spatial extent purely from a meteorological perspective. For instance, storms can have different spatial size ranging from localized tornadoes with a diameter of 3 km to extratropical cyclones which are ~480km wide. This huge variety in spatial extent of storms is due to their different physical properties.
 
-**Frequency:** There can also be a shift in the frequency of storms due to climate change. For instance they could occur more often as it is indicated in Fig. 2 by a shift from the blue to the red line (Note: literature suggests that storm-frequency is acutally decreasing globally, but they are getting more intense). You can see that the red line exceeds the hazard threshold more often.
 
-**Duration:** Storms can persist longer in one location. Comparing the blue and red line in Fig. 2 this shows as a widening of the blue line resulting in the red line. In other words; the hazard threshold is exceeded for a longer time-period. You would get distributions like this if you compare fast storms (blue curve) and slow storms (red curve). If the storms duration decreases the resulting curve would be more narrow than the blue one.
+# What Is the Difference between Weather and Climate Extremes?
 
-**Timing (Seasonal Shift):** We already noted that the frequency of storms is supposed to decrease globally - but does this also mean that time **when** they hit shifts? Lets suppose this is the case and the stormy season does not start in October anymore but rather in August. This would result in a shift of the timing to the left, e.g. from the blue to the red curve. 
+You might wonder why I use the term "Weather and Climate Extremes" and where the weather extremes differ from the climate extremes. The main distinction between these both terms stems from the temporal perspective. Weather extremes refer to one specific event in time. We can analyze this given event using all the characteristic I described above. If we want, we can compare this single event to a second event that, for instance, occured 10 years ago. We can then see whether the current event was stronger in intensity or magnitude and if it did lead to more damages compared to the historic event.
+If we track all weather extremes recorded throughout history, put them into a basket and analyze their statistics; such as the average intensity, magnitude or spatial extent; we are shifting from the realm of weather extremes to climate extremes. When looking into climate extremes, we essentially want to answer the question how the average weather extreme looks like and how this baseline did shift over the previous decades or centuries. This directly lealds to the questions whether humand induced climate change actually influences weather extremes.
+# Does Climate Change Influence Extreme Events?
 
-**Timing (Shift in Onset):** The speed at which the peak intensity decreases or increases can be altered due to climate change. In Fig. 2 for example the hazard intensity of the current climate decreases more slowly (blue curve) than in a changed climate (red curve). Most recent storms (such as Hurricane Otis in 2023 and Hurricane Milton in 2024) seem to jump across categories of the Saffir-Simpson-Scale more rapidly than older storms. A possible explanation for this is an increase in the oceans temperature, which fuels storms.
+Of course one of the most challenging and concurrent questions in research right now is whether the human induced climate changes leads to a change in the discusses characteristics of extreme events. The short answer is: it does. In Fig. 1 the IPCC indicates the influence of climate change by a shift of the original distribution of the climate variable. The red lines in the figure correspond to the distribution of the extreme event under climate change, the blue line indicates the current climate. 
+While you would expect that an increase in climate change and global temperature leads to more frequent and intense extreme events, this narrative is mostly true but does not hold for all extreme events. For example, the influence of climate change on the frequency of storms is still discussed and there is no clear evidence of an increase in storm events. Most studies do find an increase in the storms intensity though. If you want to know more about the influence of climate change on storms, follow this link [this link](How%20Extreme%20Event%20Attributes%20of%20Storms%20Change%20Under%20Climate%20Change.md).
 
 ---
 # Related Articles
 
-If you want to know how these attributes are changing for storm events according to recent literature read the article below:
-
 - [[How Extreme Event Attributes of Storms Change Under Climate Change]]
+
+-  [ ] Publish 🔺 

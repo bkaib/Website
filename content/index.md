@@ -5,54 +5,31 @@ social_posted: true
 ---
 <img src="kaibelli.jpg" alt="image-of-kai" style="float:right; width:250px; margin:10px;" />
 
-# A Brief Intro
+# 📓A Brief Intro
 
-🌍 I am (becoming) a climate scientist.   
-📙 I am tutor of math, statistics & econ.  
-🌊 I am a surfer.  
-📷 I am a photographer.   
+🌍 On the path to become a climate scientist  
+📙 Tutor of math, statistics & econ
+📷 Photographer 
 
 Find out more about my [Education & Skills](Education%20&%20Skills.md)
 
-# You Are at the Right Place If...
+# 👋 Hey there, cool to have you here!
 
-you are interested in the following topics or questions, you might get some value off my sharings
+Welcome to my personal, digital space. Here I will share my thoughts, experiences and knowledge around a variety of topics listed below.
 
 🌍 **Weather & Climate**  
-
-- I am going to share some of my insight from my [🖥️ PhD in Climate Science](#phd-in-climate-science)
-- We are going to focus on natural hazards, such as storms, floods and droughts, and their impacts.
-- You can also learn about the tools I use to investigate those topics. Mainly these tools are related to data science and statistics
+- Let me take you with me on my [journey to become a climate scientist](_Journey%20of%20a%20PhD.md)
+- Have a look at my [articles on climate science](_Climate%20Science.md)
+- Get access to my latest [open-source examples of climate data analysis](_Coding.md)
 
 📙 **Need Help In Math-Related Things?**  
-- I have 10+ years experience in private tutoring of mathematics and economics up to university level.
-- Get more information [about my tutoring here](_Tutoring.md).
+- I have 10+ years experience in [private tutoring](_Tutoring.md) of mathematics and economics up to university level. Let me know if you need some help!
+
+📷 **Photography**
+- Not interested in science but art? Then you might be interested in my [[photography]] evolving around surfing, the ocean and waves.
 
 🌊 **Surfing & Science**
-- If I find some time, I will relate my scientific knowledge to my personal passion for surfing and answer questions like;
-- How are waves generated?
-- What ingredients do we need for a good surfspot?
-
-📷 **Photography & Videography**
-- My photography focuses on the ocean, surfing and all its natural surroundings.
-- Checkout my [art gallery](??).
-
---- 
-# What I'm Currently Working On
-
-<h4 id="phd-in-climate-science">🖥️ <b>PhD in Climate Science</b></h2>
-
-Besides my graduations in higher mathematics, economics, and sports I studied Ocean & Climate Physics at the University of Hamburg. I finished my Masters Degree in 2022 and started my PhD-Position in 2023 at the [Helmholtz-Center Hereon](https://www.hereon.de/institutes/coastal_systems_analysis_modeling/climate_extremes_impacts/team/112706/index.php.en)
-
-#### 🌪️ **Extreme Events and Their Physical Mechanisms**   
-In my PhD I focus on [[Weather and Climate Extremes]], their possible [Impacts](Impacts%20of%20Weather%20and%20Climate%20Extremes.md) and their underlying [Physical Drivers](Physical%20Drivers%20) with and emphasize on [[Wind Extremes]].
-
-#### 🧮 **Tutoring in Math, Statistics  & Econ**   
-I do have more than 10 years of experience in tutoring mathematics. Right now I am working on the [MathNet](https://bkaib.github.io/MathNet/), where I want to help students to understand math in a simple manner for free. While studying, me and a friend started a side hustle, where we helped hundreds of students to understand math, statistics and economics at the University of Osnabrück. We still have some [courses online](https://vimeo.com/user116338393). 
-Find out more on my [tutoring offers here](_Tutoring.md).
-
-#### 📷 **Photography & Videography**    
-On my surf trips I capture the most exciting moments along the way, mostly of landscapes or surfers. Check out my [art gallery](??) and let me know what pictures you enjoy! If you want me to capture moments for you, feel free to contact me for further details.
+- There is a project in the pipeline launching soon. Stay tuned!
 
 ---
 # 📣 Get in Touch

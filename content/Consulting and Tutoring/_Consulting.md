@@ -6,35 +6,30 @@ up: "[[content/index|index]]"
 social_posted: true
 ---
 
-> **Summary**
+> **My skills for you in a nutshell:**
 >
-> - 🧭 **Research Design:** help framing questions, experiments and study plans.
-> - 📈 **Data Analysis:** statistical modeling, reproducible pipelines and visualization.
-> - 🧰 **Coding & Reproducibility:** scripts, notebooks, and automated workflows.
-> - ⚙️ **Implementation:** bespoke analyses, dashboards and collaboration support.
+> - 🧭 **Research Project Design** 
+> - 📈 **Data Analysis & Modelling** 
+> - ⚙️ **Machine Learning**
+> - 🧰 **Coding & Pipelines**
+> - 📊 **Data Visualisation, Interpretation & Reporting** 
+> - 🤖 **AI-Agent System Setup**
+> - 📚 **Workshops & Training**
 >
-> Hire me to design and implement data‑driven research workflows, or to train your
-> team in practical analysis skills.
+> **Got your interest? Send me an [Email](mailto:bellinghausen.kai@gmail.com) with your inquiry.**
+> 
 
-# 🧭 Consulting Services — Research, Data & Code
 
-I help researchers, small teams and organisations design studies, analyse data and
-build reproducible code pipelines. Whether you need a second pair of eyes on a
-project, an end‑to‑end analysis, or training for your group, I deliver clear,
-practical results rooted in sound statistical practice.
+# 🔎 Consulting Services 
 
-# 🔎 Services Offered
-
-- **Research Design & Protocols:** study plans, sample calculations, measurement strategies and reproducibility checks.
-- **Data Analysis & Modeling:** statistical analyses, regression, time‑series,
-  extreme event attribution and uncertainty quantification.
-- **Machine Learning:** automated pipelines, pattern recognition, classification, regression.
-- **Coding & Pipelines:** Python/R scripts, notebooks, modular code and
-  automated workflows.
-- **Visualisation & Reporting:** clear figures, dashboards and reproducible
+- 🧭 **Research Design & Protocols:** developing research questions, experiments, project plans
+- 📈 **Data Analysis & Modeling:** data cleaning, statistical modeling, reproducible pipelines and visualization.
+- ⚙️ **Machine Learning:** pattern recognition, classification, regression, and automated pipelines
+- 🧰 **Coding & Pipelines:** Python/R scripts, notebooks and automated workflows
+- 📊 **Visualisation & Reporting:** clear figures, dashboards and reproducible
   reports for decision makers.
-- **Workshops & Training:** short courses on data analysis, reproducible code
-  and domain‑specific methods related to statistics, climate science or economics.
+- 🤖 **AI-Agent System Setup**: setting up project-based agent systems, workflows, skills
+- 📚 **Workshops & Training:** short courses on data analysis, reproducible code and domain‑specific methods related to statistics, climate science or economics.
 
 # ⚙️ Typical Process
 
@@ -46,21 +41,20 @@ practical results rooted in sound statistical practice.
 
 # 💰 Pricing (Indicative)
 
-- **Hourly consulting:** €80 / hour.
-- **Fixed‑price projects:** quoted per scope (small analyses start ~€250).
+- **Hourly consulting:** €120 / hour.
+- **Fixed‑price projects:** quoted per scope (small analyses start ~€300).
 - **Training workshops:** custom pricing based on length and group size.
 
-Contact me for a tailored quote and to discuss timelines.
+[Contact me](mailto:bellinghausen.kai@gmail.com) for a tailored quote and to discuss timelines.
 
-# 🔗 Related Pages
-
-- Not sure if I am the right one? Check my [Education & Skills](Education%20&%20Skills.md).
-- Need help in math, statistics or econ? Check out my [Private Tutoring](_Tutoring.md).
-
----
 # 📣 Ready To Advance Your Research? Hire Me For Consulting!
 
 If you need help designing research, implementing analyses, or setting up
 reproducible code, email me at [bellinghausen.kai@gmail.com](mailto:bellinghausen.kai@gmail.com) to arrange a discovery call or receive a proposal.
+
+# 🔗More Information
+
+- [Education & Skills](Education%20&%20Skills.md).
+- [Private Tutoring](_Tutoring.md).
 
 

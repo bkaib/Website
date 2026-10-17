@@ -16,7 +16,7 @@ Note: External links like the one above only work if you **make a double enter a
 # Creating Images
 
 <figure>
-  <img src="weather-vs-climate.jpg" alt="weather-vs-climate" style="width:600px; height:600px;" title="source: Shutterstock">
+  <img src="./content/ASSETS/IMAGES/weather-vs-climate.jpg" alt="weather-vs-climate" style="width:600px; height:600px;" title="source: Shutterstock">
   <figcaption>
 	  Fig. 1: Difference between Weather and Climate.
 	  <a href="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS48dW-qpnh3M1SYLBfqGDErE3RjYmUALELtxZQeHB5QR4bo6yTrEJqiK15anRi1_-DU6cIO0wmVkqrTtFJgE-HDHmfYOjuQbBHcGrPJJB885h6OZU">Source: Shutterstock</a>
