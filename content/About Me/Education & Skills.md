@@ -24,7 +24,7 @@ Here is a brief overview of my academic career.
 - [2025 - Rejected - Coherent Modes of Northern Hemisphere Wind Extremes and Their Links to Global Large-Scale Drivers](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-523/)
 # 💻 Coding Languages
 
-- Python
+- Python (Main)
 - R
 - Java Script
 
@@ -32,12 +32,13 @@ Here is a brief overview of my academic career.
 
 - **Current Position**
 	- **PhD at Helmholtz Center Hereon** in Ocean & Climate Physics with a focus on extreme events and their large scale drivers with a current focus on storms.
+	- **Freelance Journalist at [MeteoRed](https://www.daswetter.com/autor/kai-bellinghausen/)** writing brief weather forecasts for Germany utilizing ECMWF model output.
 	- **Private Tutor** with decades of experience in mathematics, statistics, and economics at highschool and university level.
 	- **Photographer** in surf camps and at surf events such as the ADH Open Wellenreiten, a surf championship of students from German universities taking place in France.
 - **Past Experiences:**
 	- **Research assistant at the  [Alfred Wegener Institute](https://www.awi.de)** for 2 years, working on diagnostics of the spatial distribution of kinetic energy in an artificial ocean setup.
 	- **Research assistant at the Economics department at University of Hamburg** for 1 year, analyzing the quantitity of public available sustainable/green financial instruments such as green bonds
-	- **Founder** of a tutoring company (in 2017), where we helped hundreds of students to understand math, statistics and economics at the University of Osnabrück. We still have some [courses online](https://vimeo.com/user116338393).
+	- **Founder** of a tutoring company (in 2017) helping hundreds of students to understand math, statistics and economics at the University of Osnabrück. We still have some [courses online](https://vimeo.com/user116338393).
 
 
 # 🛠️ Other Skills
