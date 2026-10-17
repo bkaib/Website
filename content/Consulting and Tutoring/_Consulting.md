@@ -47,14 +47,10 @@ social_posted: true
 
 [Contact me](mailto:bellinghausen.kai@gmail.com) for a tailored quote and to discuss timelines.
 
+--- 
 # 📣 Ready To Advance Your Research? Hire Me For Consulting!
 
 If you need help designing research, implementing analyses, or setting up
-reproducible code, email me at [bellinghausen.kai@gmail.com](mailto:bellinghausen.kai@gmail.com) to arrange a discovery call or receive a proposal.
+reproducible code, send me an [email](mailto:bellinghausen.kai@gmail.com) to arrange a discovery call or receive a proposal.
 
-# 🔗More Information
-
-- [Education & Skills](Education%20&%20Skills.md).
-- [Private Tutoring](_Tutoring.md).
-
-
+📨 **Email** – Please get in touch [via email](mailto:bellinghausen.kai@gmail.com) for any business inquiries, questions or comments. I check my emails once a week but reply to all of them.

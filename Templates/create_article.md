@@ -7,12 +7,10 @@ up:
 social_posted:
 ---
 
-> **Summary**
+> **✏️Key Points**
 > 
-> - 🌊 **Point1:** SampleText
-> - 💸 **Point2:** SampleText>
-> 
-> The following sections explore these themes in greater detail with illustrative figures.
+> 1. Point 1
+> 2. Point 2
 # ✨ Introduction
 
 Start your article with a paragraph that sets the stage and engages the reader.
@@ -23,10 +21,6 @@ Start your article with a paragraph that sets the stage and engages the reader.
 - [[Related topic 2]]
 
 --- 
-# 📣 Call To Action
+# 📣 Get in Touch
 
-Interested in deeper insights or ready‑made summaries? Check out my products and
-support my work:
-
-* [My summaries and guides](#) – available soon.
-* Get in touch: [email](mailto:bellinghausen.kai@gmail.com) 
+📨 **Email** – Please get in touch [via email](mailto:bellinghausen.kai@gmail.com) for any business inquiries, questions or comments. I check my emails once a week but reply to all of them.

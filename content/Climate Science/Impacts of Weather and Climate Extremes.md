@@ -6,9 +6,9 @@ tags:
 up:
 social_posted: false
 ---
-- [ ] Recheck article: Impacts of Weather and Climate Extremes
+- [ ] Write this article #article 🔺 📅 2026-10-23 
 
-> **Summary**
+> **✏️Key Points**
 >
 > - 🌊 **Physical damage:** floods, erosion and habitat loss reshape landscapes.
 > - 💸 **Economic cost:** buildings, crops and infrastructure suffer billion‑dollar losses.

@@ -1,5 +1,5 @@
 ---
-title: Education & Skills
+title: 🎓 Education & Skills
 created date: "202512182107"
 draft: false
 tags:
@@ -49,3 +49,8 @@ Here is a brief overview of my academic career.
 - Machine learning
 - Project management
 - Creativity
+
+--- 
+# 📣 Get in Touch
+
+📨 **Email** – Please get in touch [via email](mailto:bellinghausen.kai@gmail.com) for any business inquiries, questions or comments. I check my emails once a week but reply to all of them.

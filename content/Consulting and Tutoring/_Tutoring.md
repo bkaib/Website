@@ -64,7 +64,3 @@ Sessions are conducted online via video call. Scheduling is flexible, with eveni
 # 📣 Ready to Improve? Book a Tutoring Session
 
 Ready to improve your understanding or tackle a specific problem? Email me at [das.mathnet@gmail.com](mailto:das.mathnet@gmail.com) to schedule a session or request a custom package.
-
-Stay tuned for comprehensive summaries and guides that support your learning journey.
-
-

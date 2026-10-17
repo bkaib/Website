@@ -1,28 +1,26 @@
 ---
-title: Weather and Climate Extremes
+title: A Brief Introduction to Weather and Climate Extremes
 created date: "202602211624"
 draft: false
 tags:
-  - natural-hazard
 up: "[[_Climate Science]]"
 social_posted: false
 ---
 
-> **Summary**
+> **✏️Key Points**
 > 
-> - 🌊 **Extreme events impact our global society**
-> - 💸 **How can we describe extreme events?** 
-> - **Does climate change alter extreme events?**
-> 
-> Brief introduction to weather and climate extremes
+> 1. **Extreme events impact our global society and lead to loss of human life and damages to the economy**
+> 2. **Extreme events can be described by their intensity, frequency, duration, spatial extent and timing** 
+> 3. **Weather and climate extremes only differ by their temporal scale**
+> 4. **Human induced climate change influences the characteristica of extreme events**
  
 
-# Why are Weather and Climate Extremes Important?
+# 🌪️Why are Weather and Climate Extremes Important?
 
 Weather and Climate Extremes are one of the biggest challenge for society. They lead to loss of human life and induce damages to the global economy and infrastructure. 
 Hence understanding what they are, how they develop and change as well as how we can adapt to them is crucial. 
 
-Examples of their impacts include the following
+Examples of their impacts are not limited to but include the following
 
 1. **Loss of Human Life:** Approximately 17.200 people lost their life globally due to extreme events (according to data of Munich Re). The 10-year average of fatalities is at 17.800 people.
 2. **Biological Limits:** Nature can adapt to gradual change but extreme events (like storms or wild fires) can damage entire ecosystems (e.g. forests,), causing permanent biodiversity loss.
@@ -39,7 +37,7 @@ There are several types of extreme events that can be related to different clima
 
 I currently investigate wind extremes in my PhD. So let's use storms as an example to explain the general characteristics of extreme events.
 
-# How Can We Describe Extreme Events?
+# ⛈️ How Can We Describe Extreme Events?
 
 To analyse extreme events we need to measure a quantity or variable that describes the extreme. For instance, for storms we measure the wind speed (usually in meter per second). Let's call this variable an extreme event proxy.
 According to the [IPCC](https://www.ipcc.ch) extreme events can then be characterized by the following attributes of this extreme event proxy (for example wind speed):
@@ -86,18 +84,20 @@ Once an extreme event has developed it can reach its peak values either slow or 
 To get a complete picture of an extreme event its spatial extent and exact location is a vital component. For example, storms that develop and stay on the open ocean are potentially less damaging than the ones making landfall (given that ships and cargo is not sitting within the storm tracks, of course). Despite the fact that the locality is an importance metric for society and emergency planning it is also interesting to study the spatial extent purely from a meteorological perspective. For instance, storms can have different spatial size ranging from localized tornadoes with a diameter of 3 km to extratropical cyclones which are ~480km wide. This huge variety in spatial extent of storms is due to their different physical properties.
 
 
-# What Is the Difference between Weather and Climate Extremes?
+# ⏱️What Is the Difference between Weather and Climate Extremes?
 
 You might wonder why I use the term "Weather and Climate Extremes" and where the weather extremes differ from the climate extremes. The main distinction between these both terms stems from the temporal perspective. Weather extremes refer to one specific event in time. We can analyze this given event using all the characteristic I described above. If we want, we can compare this single event to a second event that, for instance, occured 10 years ago. We can then see whether the current event was stronger in intensity or magnitude and if it did lead to more damages compared to the historic event.
 If we track all weather extremes recorded throughout history, put them into a basket and analyze their statistics; such as the average intensity, magnitude or spatial extent; we are shifting from the realm of weather extremes to climate extremes. When looking into climate extremes, we essentially want to answer the question how the average weather extreme looks like and how this baseline did shift over the previous decades or centuries. This directly lealds to the questions whether humand induced climate change actually influences weather extremes.
-# Does Climate Change Influence Extreme Events?
+# 🔥Does Climate Change Influence Extreme Events?
 
 Of course one of the most challenging and concurrent questions in research right now is whether the human induced climate changes leads to a change in the discusses characteristics of extreme events. The short answer is: it does. In Fig. 1 the IPCC indicates the influence of climate change by a shift of the original distribution of the climate variable. The red lines in the figure correspond to the distribution of the extreme event under climate change, the blue line indicates the current climate. 
-While you would expect that an increase in climate change and global temperature leads to more frequent and intense extreme events, this narrative is mostly true but does not hold for all extreme events. For example, the influence of climate change on the frequency of storms is still discussed and there is no clear evidence of an increase in storm events. Most studies do find an increase in the storms intensity though. If you want to know more about the influence of climate change on storms, follow this link [this link](How%20Extreme%20Event%20Attributes%20of%20Storms%20Change%20Under%20Climate%20Change.md).
-
----
-# Related Articles
+While you would expect that an increase in climate change and global temperature leads to more frequent and intense extreme events, this narrative is mostly true but does not hold for all extreme events. For example, the influence of climate change on the frequency of storms is still discussed and there is no clear evidence of an increase in storm events. Many studies do find an increase in the storms intensity though.
+# 🔗 Related Articles
 
 - [[How Extreme Event Attributes of Storms Change Under Climate Change]]
+- [Impacts of Weather and Climate Extremes](Impacts%20of%20Weather%20and%20Climate%20Extremes.md)
 
--  [ ] Publish 🔺 
+--- 
+# 📣 Get in touch
+
+📨 **Email** – Please get in touch [via email](mailto:bellinghausen.kai@gmail.com) for any business inquiries, questions or comments. I check my emails once a week but reply to all of them.

@@ -1,12 +1,10 @@
 ---
-title: Journey of a PhD
+title: 🎓 Journey of a PhD
 draft: false
 tags:
 up: "[[content/index|index]]"
 social_posted: true
 ---
-# 🎓 Journey of a PhD
-
 Welcome to my ups and downs in the progress of becoming a climate scientist. Probably these articles might be interesting for you if you are either thinking of starting a PhD in climate science or you are right in the middle of it.
 
 # 🔗 Articles
@@ -15,6 +13,7 @@ Welcome to my ups and downs in the progress of becoming a climate scientist. Pro
 - [[My Academic Workflow]]
 - [[How I Setup My Coding Environment]]
 - [[My Current Favorite Books and Articles]]
+- [[_Paper of the Month]]
 
 
 

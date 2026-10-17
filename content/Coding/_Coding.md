@@ -1,13 +1,11 @@
 ---
-title: Coding
+title: 🖥️ Coding
 created date: "202610172154"
 draft: false
 tags:
 up: "[[content/index|index]]"
 social_posted:
 ---
-# 🖥️ Coding
-
 Let us channel our inner nerds. Here I will share some open source code regarding the analysis of climate data. Bear with me: my code is not perfect and hopefully it runs on your machine too.
 
 # 🔗 Related Articles
